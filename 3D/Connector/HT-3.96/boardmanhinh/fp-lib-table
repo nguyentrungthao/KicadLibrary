@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "buzzer")(type "KiCad")(uri "${TRUC_LIBRARY}/buzzer.pretty/buzzer.pretty")(options "")(descr ""))
+)
